@@ -1,1 +1,0 @@
-I want to use react for the frontend, flask for the backend, and mongoDB for the database. User query and model's output must be stroed in database. Now provide the complete architectural plan in detail.
